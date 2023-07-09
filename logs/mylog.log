@@ -1,0 +1,508 @@
+[INFO ] 2023-07-08 17:32:40.387 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 17:32:40.415 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 17:32:42.018 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 17:32:42.259 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 17:32:45.682 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 17:32:45.762 [main] StepDef - customers menu
+[INFO ] 2023-07-08 17:32:46.812 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 17:32:46.919 [main] StepDef - search customer email
+[INFO ] 2023-07-08 17:32:49.992 [main] StepDef - search customer email
+[INFO ] 2023-07-08 17:32:50.380 [main] StepDef - Browser closed...
+[INFO ] 2023-07-08 17:32:51.295 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 17:32:51.299 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 17:32:52.815 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 17:32:53.050 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 17:32:56.534 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 17:32:56.610 [main] StepDef - customers menu
+[INFO ] 2023-07-08 17:32:57.663 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 17:34:48.888 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 17:34:48.915 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 17:34:50.739 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 17:34:50.963 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 17:34:53.747 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 17:34:53.820 [main] StepDef - customers menu
+[INFO ] 2023-07-08 17:34:54.845 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 17:34:54.955 [main] StepDef - search customer email
+[INFO ] 2023-07-08 17:34:58.036 [main] StepDef - search customer email
+[INFO ] 2023-07-08 17:34:58.411 [main] StepDef - Browser closed...
+[INFO ] 2023-07-08 17:34:59.224 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 17:34:59.226 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 17:35:00.826 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 17:35:01.041 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 17:35:05.316 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 17:35:05.388 [main] StepDef - customers menu
+[INFO ] 2023-07-08 17:35:06.445 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 17:41:10.481 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 17:41:10.505 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 17:41:12.158 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 17:41:12.429 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 17:41:16.394 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 17:41:16.462 [main] StepDef - customers menu
+[INFO ] 2023-07-08 17:41:17.626 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 17:41:17.745 [main] StepDef - search customer email
+[INFO ] 2023-07-08 17:41:20.820 [main] StepDef - search customer email
+[INFO ] 2023-07-08 17:41:21.215 [main] StepDef - Browser closed...
+[INFO ] 2023-07-08 17:41:22.108 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 17:41:22.114 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 17:41:24.357 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 17:41:24.611 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 17:41:28.807 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 17:41:28.875 [main] StepDef - customers menu
+[INFO ] 2023-07-08 17:41:29.925 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 17:42:24.579 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 17:42:24.617 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 17:42:26.192 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 17:42:26.417 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 17:42:29.136 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 17:42:29.200 [main] StepDef - customers menu
+[INFO ] 2023-07-08 17:42:30.284 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 17:42:30.394 [main] StepDef - search customer email
+[INFO ] 2023-07-08 17:42:33.479 [main] StepDef - search customer email
+[INFO ] 2023-07-08 17:42:33.832 [main] StepDef - Browser closed...
+[INFO ] 2023-07-08 17:42:34.589 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 17:42:34.591 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 17:42:36.138 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 17:42:36.386 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 17:42:39.805 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 17:42:39.881 [main] StepDef - customers menu
+[INFO ] 2023-07-08 17:42:40.915 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 17:43:58.765 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 17:43:58.789 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 17:44:00.344 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 17:44:00.606 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 17:44:04.052 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 17:44:04.122 [main] StepDef - customers menu
+[INFO ] 2023-07-08 17:44:05.196 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 17:44:06.143 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 17:44:06.146 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 17:44:07.689 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 17:44:07.940 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 17:44:12.183 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 17:44:12.253 [main] StepDef - customers menu
+[INFO ] 2023-07-08 17:44:13.340 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 17:47:01.899 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 17:47:01.925 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 17:47:05.384 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 17:47:05.385 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 17:47:28.612 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 17:47:28.648 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 17:47:30.205 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 17:47:30.467 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 17:47:34.628 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 17:47:34.717 [main] StepDef - customers menu
+[INFO ] 2023-07-08 17:47:35.806 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 17:47:35.916 [main] StepDef - search customer email
+[INFO ] 2023-07-08 17:47:39.000 [main] StepDef - search customer email
+[INFO ] 2023-07-08 17:47:39.403 [main] StepDef - Browser closed...
+[INFO ] 2023-07-08 17:47:40.191 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 17:47:40.192 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 17:47:41.753 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 17:47:41.997 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 17:47:45.481 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 17:47:45.550 [main] StepDef - customers menu
+[INFO ] 2023-07-08 17:47:46.611 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 17:47:51.869 [main] StepDef - search customer email
+[INFO ] 2023-07-08 17:47:51.973 [main] StepDef - found name in search table
+[INFO ] 2023-07-08 17:47:52.072 [main] StepDef - Browser closed...
+[INFO ] 2023-07-08 17:49:23.516 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 17:49:23.544 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 17:49:25.086 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 17:49:25.361 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 17:49:28.911 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 17:49:28.988 [main] StepDef - customers menu
+[INFO ] 2023-07-08 17:49:30.040 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 17:49:30.140 [main] StepDef - search customer email
+[INFO ] 2023-07-08 17:49:33.221 [main] StepDef - search customer email
+[INFO ] 2023-07-08 17:49:33.621 [main] StepDef - Browser closed...
+[INFO ] 2023-07-08 17:49:34.348 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 17:49:34.350 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 17:49:35.835 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 17:49:36.029 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 17:49:39.514 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 17:49:39.594 [main] StepDef - customers menu
+[INFO ] 2023-07-08 17:49:40.701 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 17:49:45.936 [main] StepDef - search customer email
+[INFO ] 2023-07-08 17:49:46.024 [main] StepDef - found name in search table
+[INFO ] 2023-07-08 17:49:46.134 [main] StepDef - Browser closed...
+[INFO ] 2023-07-08 17:50:50.975 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 17:50:51.144 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 17:50:52.702 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 17:50:52.939 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 17:50:56.434 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 17:50:56.512 [main] StepDef - customers menu
+[INFO ] 2023-07-08 17:50:57.666 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 17:50:57.793 [main] StepDef - search customer email
+[INFO ] 2023-07-08 17:51:00.879 [main] StepDef - search customer email
+[INFO ] 2023-07-08 17:51:01.225 [main] StepDef - Browser closed...
+[INFO ] 2023-07-08 17:51:02.005 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 17:51:02.134 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 17:51:02.976 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 17:51:03.333 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 17:51:06.789 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 17:51:06.866 [main] StepDef - customers menu
+[INFO ] 2023-07-08 17:51:07.925 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 17:51:13.175 [main] StepDef - search customer email
+[INFO ] 2023-07-08 17:51:13.308 [main] StepDef - found name in search table
+[INFO ] 2023-07-08 17:51:13.387 [main] StepDef - Browser closed...
+[INFO ] 2023-07-08 18:20:18.075 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 18:20:18.246 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 18:20:19.990 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 18:20:20.318 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 18:20:23.920 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 18:20:24.284 [main] StepDef - customers menu
+[INFO ] 2023-07-08 18:20:25.533 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 18:20:25.772 [main] StepDef - search customer email
+[INFO ] 2023-07-08 18:20:28.969 [main] StepDef - search customer email
+[INFO ] 2023-07-08 18:20:29.563 [main] StepDef - Browser closed...
+[INFO ] 2023-07-08 18:20:30.499 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 18:20:30.635 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 18:20:32.221 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 18:20:32.617 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 18:20:36.150 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 18:20:36.421 [main] StepDef - customers menu
+[INFO ] 2023-07-08 18:20:37.620 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 18:20:43.202 [main] StepDef - search customer email
+[INFO ] 2023-07-08 18:20:43.379 [main] StepDef - found name in search table
+[INFO ] 2023-07-08 18:20:43.592 [main] StepDef - Browser closed...
+[INFO ] 2023-07-08 18:24:12.419 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 18:24:12.634 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 18:24:14.328 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 18:24:14.667 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 18:24:18.272 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 18:24:18.611 [main] StepDef - customers menu
+[INFO ] 2023-07-08 18:24:20.047 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 18:24:20.326 [main] StepDef - search customer email
+[INFO ] 2023-07-08 18:24:23.524 [main] StepDef - search customer email
+[INFO ] 2023-07-08 18:24:24.123 [main] StepDef - Browser closed...
+[INFO ] 2023-07-08 18:24:24.979 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 18:24:25.097 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 18:24:26.698 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 18:24:27.100 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 18:24:30.664 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 18:24:30.950 [main] StepDef - customers menu
+[INFO ] 2023-07-08 18:24:32.160 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 18:24:37.745 [main] StepDef - search customer email
+[INFO ] 2023-07-08 18:24:37.942 [main] StepDef - found name in search table
+[INFO ] 2023-07-08 18:24:38.200 [main] StepDef - Browser closed...
+[INFO ] 2023-07-08 18:28:01.829 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 18:28:02.027 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 18:28:03.658 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 18:28:03.901 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 18:28:08.168 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 18:28:08.257 [main] StepDef - customers menu
+[INFO ] 2023-07-08 18:28:09.327 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 18:28:09.444 [main] StepDef - search customer email
+[INFO ] 2023-07-08 18:28:12.545 [main] StepDef - search customer email
+[INFO ] 2023-07-08 18:28:12.874 [main] StepDef - Browser closed...
+[INFO ] 2023-07-08 18:28:13.657 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 18:28:13.777 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 18:28:15.321 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 18:28:15.616 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 18:28:19.853 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 18:28:19.945 [main] StepDef - customers menu
+[INFO ] 2023-07-08 18:28:20.990 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 18:28:26.318 [main] StepDef - search customer email
+[INFO ] 2023-07-08 18:28:26.419 [main] StepDef - found name in search table
+[INFO ] 2023-07-08 18:28:26.520 [main] StepDef - Browser closed...
+[INFO ] 2023-07-08 18:32:00.323 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 18:32:00.521 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 18:32:02.218 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 18:32:02.467 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 18:32:05.931 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 18:32:06.021 [main] StepDef - customers menu
+[INFO ] 2023-07-08 18:32:07.121 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 18:32:07.231 [main] StepDef - search customer email
+[INFO ] 2023-07-08 18:32:11.318 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 18:32:11.438 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 18:32:13.081 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 18:32:13.356 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 18:32:18.403 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 18:32:18.484 [main] StepDef - customers menu
+[INFO ] 2023-07-08 18:32:19.562 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 18:37:37.127 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 18:37:37.306 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 18:37:38.948 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 18:37:39.218 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 18:37:42.782 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 18:37:42.900 [main] StepDef - customers menu
+[INFO ] 2023-07-08 18:37:44.008 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 18:37:44.140 [main] StepDef - search customer email
+[INFO ] 2023-07-08 18:37:48.162 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 18:37:48.301 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 18:37:49.928 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 18:37:50.239 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 18:37:53.002 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 18:37:53.083 [main] StepDef - customers menu
+[INFO ] 2023-07-08 18:37:54.636 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 18:48:16.539 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 18:48:16.713 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 18:48:18.361 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 18:48:18.605 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 18:48:22.017 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 18:48:22.108 [main] StepDef - customers menu
+[INFO ] 2023-07-08 18:48:23.194 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 18:48:23.299 [main] StepDef - search customer email
+[INFO ] 2023-07-08 18:48:26.367 [main] StepDef - search customer email
+[INFO ] 2023-07-08 18:48:26.745 [main] StepDef - Browser closed...
+[INFO ] 2023-07-08 18:48:27.522 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 18:48:27.651 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 18:48:29.159 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 18:48:29.473 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 18:48:33.651 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 18:48:33.739 [main] StepDef - customers menu
+[INFO ] 2023-07-08 18:48:34.870 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 18:48:40.144 [main] StepDef - search customer email
+[INFO ] 2023-07-08 18:48:40.268 [main] StepDef - found name in search table
+[INFO ] 2023-07-08 18:48:40.370 [main] StepDef - Browser closed...
+[INFO ] 2023-07-08 18:48:41.103 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 18:48:41.233 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 18:48:42.793 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 18:48:43.083 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 18:48:47.347 [main] StepDef - clicked on login..
+[WARN ] 2023-07-08 18:48:47.363 [main] StepDef - Page title pass
+[INFO ] 2023-07-08 18:48:50.747 [main] StepDef - logout link.
+[WARN ] 2023-07-08 18:48:50.763 [main] StepDef - Page title pass
+[INFO ] 2023-07-08 18:48:52.865 [main] StepDef - Browser closed...
+[INFO ] 2023-07-08 18:49:29.968 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 18:49:30.140 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 18:49:31.705 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 18:49:31.980 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 18:49:37.014 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 18:49:37.089 [main] StepDef - customers menu
+[INFO ] 2023-07-08 18:49:38.276 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 18:49:38.365 [main] StepDef - search customer email
+[INFO ] 2023-07-08 18:49:41.452 [main] StepDef - search customer email
+[INFO ] 2023-07-08 18:49:41.852 [main] StepDef - Browser closed...
+[INFO ] 2023-07-08 18:49:42.519 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 18:49:42.644 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 18:49:44.188 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 18:49:44.432 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 18:49:47.926 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 18:49:48.071 [main] StepDef - customers menu
+[INFO ] 2023-07-08 18:49:49.274 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 18:49:54.615 [main] StepDef - search customer email
+[INFO ] 2023-07-08 18:49:54.761 [main] StepDef - found name in search table
+[INFO ] 2023-07-08 18:49:54.879 [main] StepDef - Browser closed...
+[INFO ] 2023-07-08 18:49:55.557 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 18:49:55.680 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 18:49:57.307 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 18:49:57.525 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 18:50:00.255 [main] StepDef - clicked on login..
+[WARN ] 2023-07-08 18:50:00.264 [main] StepDef - Page title pass
+[INFO ] 2023-07-08 18:50:03.720 [main] StepDef - logout link.
+[INFO ] 2023-07-08 18:53:34.632 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 18:53:34.806 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 18:53:37.442 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 18:53:37.676 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 18:53:42.051 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 18:53:42.180 [main] StepDef - customers menu
+[INFO ] 2023-07-08 18:53:43.284 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 18:53:43.425 [main] StepDef - search customer email
+[INFO ] 2023-07-08 18:53:46.531 [main] StepDef - search customer email
+[INFO ] 2023-07-08 18:53:47.088 [main] StepDef - Browser closed...
+[INFO ] 2023-07-08 18:53:47.922 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 18:53:48.035 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 18:53:49.565 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 18:53:49.860 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 18:53:53.360 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 18:53:53.473 [main] StepDef - customers menu
+[INFO ] 2023-07-08 18:53:54.587 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 18:53:59.880 [main] StepDef - search customer email
+[INFO ] 2023-07-08 18:54:00.049 [main] StepDef - found name in search table
+[INFO ] 2023-07-08 18:54:00.186 [main] StepDef - Browser closed...
+[INFO ] 2023-07-08 18:54:01.070 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 18:54:01.212 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 18:54:02.722 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 18:54:03.009 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 18:54:06.486 [main] StepDef - clicked on login..
+[WARN ] 2023-07-08 18:54:06.494 [main] StepDef - Page title pass
+[INFO ] 2023-07-08 18:54:09.899 [main] StepDef - logout link.
+[INFO ] 2023-07-08 19:06:02.004 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 19:06:02.179 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 19:06:03.787 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 19:06:04.017 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 19:06:09.032 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 19:06:09.144 [main] StepDef - customers menu
+[INFO ] 2023-07-08 19:06:10.222 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 19:06:10.379 [main] StepDef - search customer email
+[INFO ] 2023-07-08 19:06:13.464 [main] StepDef - search customer email
+[INFO ] 2023-07-08 19:06:13.985 [main] StepDef - Browser closed...
+[INFO ] 2023-07-08 19:06:14.955 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 19:06:15.111 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 19:06:16.649 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 19:06:16.930 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 19:06:21.225 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 19:06:21.299 [main] StepDef - customers menu
+[INFO ] 2023-07-08 19:06:22.423 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 19:06:27.704 [main] StepDef - search customer email
+[INFO ] 2023-07-08 19:06:27.885 [main] StepDef - found name in search table
+[INFO ] 2023-07-08 19:06:27.980 [main] StepDef - Browser closed...
+[INFO ] 2023-07-08 19:06:28.897 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 19:06:29.034 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 19:06:30.526 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 19:06:30.819 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 19:06:34.330 [main] StepDef - clicked on login..
+[WARN ] 2023-07-08 19:06:34.339 [main] StepDef - Page title pass
+[INFO ] 2023-07-08 19:06:37.719 [main] StepDef - logout link.
+[INFO ] 2023-07-08 19:07:29.127 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 19:07:29.301 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 19:07:30.062 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 19:07:30.276 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 19:07:32.936 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 19:07:33.009 [main] StepDef - customers menu
+[INFO ] 2023-07-08 19:07:34.031 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 19:07:34.175 [main] StepDef - search customer email
+[INFO ] 2023-07-08 19:07:37.267 [main] StepDef - search customer email
+[INFO ] 2023-07-08 19:07:37.756 [main] StepDef - Browser closed...
+[INFO ] 2023-07-08 19:07:38.579 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 19:07:38.707 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 19:07:40.239 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 19:07:40.549 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 19:07:44.045 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 19:07:44.129 [main] StepDef - customers menu
+[INFO ] 2023-07-08 19:07:45.232 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 19:07:50.474 [main] StepDef - search customer email
+[INFO ] 2023-07-08 19:07:50.699 [main] StepDef - found name in search table
+[INFO ] 2023-07-08 19:07:50.818 [main] StepDef - Browser closed...
+[INFO ] 2023-07-08 19:07:51.661 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 19:07:51.806 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 19:07:52.628 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 19:07:52.899 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 19:07:57.027 [main] StepDef - clicked on login..
+[WARN ] 2023-07-08 19:07:57.036 [main] StepDef - Page title pass
+[INFO ] 2023-07-08 19:08:00.420 [main] StepDef - logout link.
+[INFO ] 2023-07-08 19:12:35.029 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 19:12:35.214 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 19:12:36.932 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 19:12:37.179 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 19:12:40.839 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 19:12:40.942 [main] StepDef - customers menu
+[INFO ] 2023-07-08 19:12:41.998 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 19:12:42.107 [main] StepDef - search customer email
+[INFO ] 2023-07-08 19:12:45.217 [main] StepDef - search customer email
+[INFO ] 2023-07-08 19:12:45.656 [main] StepDef - Browser closed...
+[INFO ] 2023-07-08 19:12:46.532 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 19:12:46.656 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 19:12:48.246 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 19:12:48.563 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 19:12:52.063 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 19:12:52.144 [main] StepDef - customers menu
+[INFO ] 2023-07-08 19:12:53.307 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 19:12:58.600 [main] StepDef - search customer email
+[INFO ] 2023-07-08 19:12:58.698 [main] StepDef - found name in search table
+[INFO ] 2023-07-08 19:12:58.831 [main] StepDef - Browser closed...
+[INFO ] 2023-07-08 19:12:59.691 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 19:12:59.822 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 19:13:01.337 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 19:13:01.555 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 19:13:05.834 [main] StepDef - clicked on login..
+[WARN ] 2023-07-08 19:13:05.843 [main] StepDef - Page title pass
+[INFO ] 2023-07-08 19:13:09.235 [main] StepDef - logout link.
+[INFO ] 2023-07-08 19:19:33.301 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 19:19:33.473 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 19:19:35.085 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 19:19:35.334 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 19:19:38.858 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 19:19:38.936 [main] StepDef - customers menu
+[INFO ] 2023-07-08 19:19:40.051 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 19:19:40.160 [main] StepDef - search customer email
+[INFO ] 2023-07-08 19:19:43.244 [main] StepDef - search customer email
+[INFO ] 2023-07-08 19:19:43.552 [main] StepDef - Browser closed...
+[INFO ] 2023-07-08 19:19:44.344 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 19:19:44.482 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 19:19:46.022 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 19:19:46.259 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 19:19:49.724 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 19:19:49.814 [main] StepDef - customers menu
+[INFO ] 2023-07-08 19:19:50.890 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 19:19:56.184 [main] StepDef - search customer email
+[INFO ] 2023-07-08 19:19:56.289 [main] StepDef - found name in search table
+[INFO ] 2023-07-08 19:19:56.394 [main] StepDef - Browser closed...
+[INFO ] 2023-07-08 19:19:57.195 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 19:19:57.326 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 19:19:58.865 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 19:19:59.127 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 19:20:02.634 [main] StepDef - clicked on login..
+[WARN ] 2023-07-08 19:20:02.645 [main] StepDef - Page title pass
+[INFO ] 2023-07-08 19:20:06.032 [main] StepDef - logout link.
+[INFO ] 2023-07-08 19:23:03.164 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 19:23:03.327 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 19:23:04.930 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 19:23:05.153 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 19:23:08.765 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 19:23:08.896 [main] StepDef - customers menu
+[INFO ] 2023-07-08 19:23:10.316 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 19:23:10.480 [main] StepDef - search customer email
+[INFO ] 2023-07-08 19:23:13.595 [main] StepDef - search customer email
+[INFO ] 2023-07-08 19:23:14.069 [main] StepDef - Browser closed...
+[INFO ] 2023-07-08 19:23:14.931 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 19:23:15.076 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 19:23:16.737 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 19:23:17.220 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 19:23:21.135 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 19:23:21.215 [main] StepDef - customers menu
+[INFO ] 2023-07-08 19:23:22.397 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 19:23:27.793 [main] StepDef - search customer email
+[INFO ] 2023-07-08 19:23:28.008 [main] StepDef - found name in search table
+[INFO ] 2023-07-08 19:23:28.131 [main] StepDef - Browser closed...
+[INFO ] 2023-07-08 19:23:29.032 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 19:23:29.188 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 19:23:30.033 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 19:23:30.483 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 19:23:34.137 [main] StepDef - clicked on login..
+[WARN ] 2023-07-08 19:23:34.146 [main] StepDef - Page title pass
+[INFO ] 2023-07-08 19:23:37.636 [main] StepDef - logout link.
+[INFO ] 2023-07-08 19:24:36.784 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 19:24:36.974 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 19:24:37.837 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 19:24:38.172 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 19:24:41.836 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 19:24:41.980 [main] StepDef - customers menu
+[INFO ] 2023-07-08 19:24:43.111 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 19:24:43.295 [main] StepDef - search customer email
+[INFO ] 2023-07-08 19:24:46.426 [main] StepDef - search customer email
+[INFO ] 2023-07-08 19:24:46.981 [main] StepDef - Browser closed...
+[INFO ] 2023-07-08 19:24:47.950 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 19:24:48.092 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 19:24:49.673 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 19:24:50.174 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 19:24:53.859 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 19:24:53.941 [main] StepDef - customers menu
+[INFO ] 2023-07-08 19:24:55.100 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 19:25:00.460 [main] StepDef - search customer email
+[INFO ] 2023-07-08 19:25:00.566 [main] StepDef - found name in search table
+[INFO ] 2023-07-08 19:25:00.654 [main] StepDef - Browser closed...
+[INFO ] 2023-07-08 19:25:01.540 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 19:25:01.686 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 19:25:03.399 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 19:25:03.720 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 19:25:07.372 [main] StepDef - clicked on login..
+[WARN ] 2023-07-08 19:25:07.383 [main] StepDef - Page title pass
+[INFO ] 2023-07-08 19:25:11.083 [main] StepDef - logout link.
+[INFO ] 2023-07-08 19:28:18.831 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 19:28:19.016 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 19:28:20.740 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 19:28:21.061 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 19:28:26.322 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 19:28:26.506 [main] StepDef - customers menu
+[INFO ] 2023-07-08 19:28:28.201 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 19:28:28.611 [main] StepDef - search customer email
+[INFO ] 2023-07-08 19:28:31.712 [main] StepDef - search customer email
+[INFO ] 2023-07-08 19:28:32.212 [main] StepDef - Browser closed...
+[INFO ] 2023-07-08 19:28:33.131 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 19:28:33.261 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 19:28:35.025 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 19:28:35.408 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 19:28:39.259 [main] StepDef - clicked on login..
+[INFO ] 2023-07-08 19:28:39.378 [main] StepDef - customers menu
+[INFO ] 2023-07-08 19:28:40.609 [main] StepDef - customer menu Items
+[INFO ] 2023-07-08 19:28:46.007 [main] StepDef - search customer email
+[INFO ] 2023-07-08 19:28:46.271 [main] StepDef - found name in search table
+[INFO ] 2023-07-08 19:28:46.400 [main] StepDef - Browser closed...
+[INFO ] 2023-07-08 19:28:47.295 [main] StepDef - setup executed...
+[INFO ] 2023-07-08 19:28:47.425 [main] StepDef - browser launched..
+[INFO ] 2023-07-08 19:28:49.055 [main] StepDef - Url opened..
+[INFO ] 2023-07-08 19:28:49.436 [main] StepDef - email & password entered..
+[INFO ] 2023-07-08 19:28:52.373 [main] StepDef - clicked on login..
+[WARN ] 2023-07-08 19:28:52.399 [main] StepDef - Page title pass
+[INFO ] 2023-07-08 19:28:56.052 [main] StepDef - logout link.
